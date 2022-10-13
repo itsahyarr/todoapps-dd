@@ -1,2 +1,2 @@
 ## Todo Apps ##
-with implementation of local storage
+with implementation of web storage
